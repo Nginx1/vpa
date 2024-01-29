@@ -1,1 +1,1 @@
-FROM registry.k8s.io/autoscaling/vpa-updater:1.0.0
+FROM registry.k8s.io/autoscaling/
